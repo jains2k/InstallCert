@@ -1,0 +1,5 @@
+Utility program to capture a HTTPS websites certificate file to certs file, like JAVA's cacerts file. 
+Especially useful when the certificate of that site is not trusted by JAVA - like self signed certificates, or by lesser know signing authorities.
+
+I have actually copied and modified this code for usability to me, from another website, but I dont remember from where now. 
+If the original author sees this code, please let me know and I will add acknowledgements to him/her.
